@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/messageid"
+        android:title="message"
+        />
+    <item
+        android:id="@+id/otpid"
+        android:title="OTP"
+        />
+</menu>
